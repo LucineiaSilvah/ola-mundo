@@ -28,7 +28,7 @@ Oi, tudo bem? Eu sou Desenvolvedora Front- End
   
 
 <p className={styles.paragrafo}>
-Até então trabalhava no setor comercial, onde atuei por mais de 10 anos, em fim com meu 29 anos resolvi estudar para conseguir entrar a area de tecnologia...
+Até então trabalhava no setor comercial, onde atuei por mais de 10 anos, em fim com meu 29 anos resolvi estudar para conseguir entrar a área de tecnologia...
 </p>
   
 
@@ -38,7 +38,7 @@ Em 2020 comecei a minha graduação em Gestão de Tecnologia da informação pel
 
 
 <p className={styles.paragrafo}>
-E foi apartir dessa formação que encontrei o desenvolvimento web, que descobri ser minha paixão, e venho me especializando para desenvolvimento Front-end, e espero logo logo estar atuando nessa areae aprendendo cada vez mais!
+E foi apartir dessa formação que encontrei o desenvolvimento web, que descobri ser minha paixão, e venho me especializando para desenvolvimento Front-end, e espero logo logo estar atuando nessa área, aprendendo cada vez mais!
 </p>
   
 
